@@ -1,0 +1,6 @@
+year,crime_count,latitude,longitude,governorate_Amman,district_Al-Qasabah,crime_category_Rescue,time_window,win_Afternoon (12-17),win_Evening (18-23),win_Morning (06-11),win_Night (00-05),is_weekend,is_workday,is_national_holiday
+1.0,1.0,0.0,0.0,1.0,1.0,1.0,Night (00-05),0,0,0,1,0,1,1
+0.75,0.6853275915103039,0.0,0.0,1.0,1.0,1.0,Morning (06-11),0,0,1,0,0,1,0
+0.5,0.5905875115349124,0.0,0.0,1.0,1.0,1.0,Afternoon (12-17),1,0,0,0,1,0,0
+0.25,0.8823438941864037,0.0,0.0,1.0,1.0,1.0,Evening (18-23),0,1,0,0,1,0,0
+0.0,0.0,0.0,0.0,1.0,1.0,1.0,Night (00-05),0,0,0,1,1,0,0
